@@ -52,5 +52,17 @@ Start training HigherHRNet to see if it is close to the results mentioned in the
 Ohhhhhhhhh trip cause of overpower! Let do it again.  
 - 2020.12.02  
 Once again, the tragedy happened!  
-- 2020.12.03  
-Start learning LaTex.  
+- 2020.12.05  
+Start learning LaTex.
+- 2020.12.10  
+Get result of Higher HRNet trained by myself.   
+- 2020.12.14  
+Design new model.  
+- 2020.12.19  
+Start paper writing.  
+- 2020.12.20  
+Try new model named split_ using "small" model ideal mentioned before.  
+- 2020.12.21  
+Fix a bug of pycocotools.  
+- 2020.12.23  
+Get intermediate result(epoch 120/300) of split model.  
